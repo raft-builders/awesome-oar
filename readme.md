@@ -26,6 +26,7 @@ Not to be confused with other projects named OAR, such as Open Agent Relay (`@oa
 - [ducter](https://github.com/wey-gu/ducter) ⭐ 40 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
 - [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 5 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
 - [rao](https://github.com/botiverse/rao) ⭐ 1 - Local desktop agent workspace that organizes work around projects, each with a long-running maintainer agent.
+- [Kaze](https://github.com/jackwener/Kaze) - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
 
 ## Agents and bridges
 
