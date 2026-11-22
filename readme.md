@@ -13,7 +13,6 @@
 ## Official
 
 - [oar](https://github.com/botiverse/oar) ⭐ 691 - Open Agent Runtime: one programming interface for all agent harnesses.
-- [oar-coxswain](https://github.com/botiverse/oar-coxswain) ⭐ 1 - Small Electron cockpit for dogfooding OAR, with fleet lanes and live voyage capture.
 - [`@botiverse/oar`](https://www.npmjs.com/package/@botiverse/oar) - The library: sessions, events, control, host tools and subagents across every runtime.
 - [`@botiverse/oar-cli`](https://www.npmjs.com/package/@botiverse/oar-cli) - The `oar` CLI to install, sign in, check usage and models, and run turns against any runtime.
 
@@ -24,7 +23,6 @@
 - [Kaze](https://github.com/jackwener/Kaze) ⭐ 239 - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
 - [ducter](https://github.com/wey-gu/ducter) ⭐ 41 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
 - [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 6 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
-- [rao](https://github.com/botiverse/rao) ⭐ 1 - Local desktop agent workspace that organizes work around projects, each with a long-running maintainer agent.
 - [Kanso](https://kanso.botiverse.build/) - Disk usage analysis and cleanup for Mac, where fixed rules and a coding agent scan together and only what you confirm is deleted.
 
 ## Agents and bridges
@@ -42,8 +40,8 @@
 - [DSH-Subagent-OAR-AGY](https://github.com/jiezhengj/DSH-Subagent-OAR-AGY) ⭐ 1 - Unofficial DeepSeek Harness plugin that delegates tasks to the local Antigravity CLI with the OAR tool shape.
 - [dsh-engine-switch](https://github.com/Goodfun-Studio/dsh-engine-switch) ⭐ 0 - DeepSeek Harness plugin that hands the main session to another agent runtime, such as Pi, through OAR (Chinese).
 - [dsh-orchestration](https://github.com/myth929/dsh-roles) ⭐ 0 - DeepSeek Harness plugin for role-layered subagents, with per-role model and OAR runtime routing.
-- [subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/subagent-oar) - Experimental DeepSeek Harness provider that delegates one-shot tasks to Codex and Claude Code through OAR.
-- [tool-subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/tool-subagent-oar) - DeepSeek Harness `subagent_oar` tool that picks a configured OAR runtime for each task.
+- [deepseek-ai/deepseek-harness: subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/subagent-oar) - Experimental DeepSeek Harness provider that delegates one-shot tasks to Codex and Claude Code through OAR.
+- [deepseek-ai/deepseek-harness: tool-subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/tool-subagent-oar) - DeepSeek Harness `subagent_oar` tool that picks a configured OAR runtime for each task.
 
 ## Related lists
 
