@@ -25,6 +25,7 @@
 - [ducter](https://github.com/wey-gu/ducter) ⭐ 41 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
 - [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 6 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
 - [rao](https://github.com/botiverse/rao) ⭐ 1 - Local desktop agent workspace that organizes work around projects, each with a long-running maintainer agent.
+- [Kanso](https://kanso.botiverse.build/) - Disk usage analysis and cleanup for Mac, where fixed rules and a coding agent scan together and only what you confirm is deleted.
 
 ## Agents and bridges
 
