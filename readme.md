@@ -14,7 +14,7 @@ Not to be confused with other projects named OAR, such as Open Agent Relay (`@oa
 
 ## Official
 
-- [oar](https://github.com/botiverse/oar) ⭐ 676 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 691 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [oar-coxswain](https://github.com/botiverse/oar-coxswain) ⭐ 1 - Small Electron cockpit for dogfooding OAR, with fleet lanes and live voyage capture.
 - [`@botiverse/oar`](https://www.npmjs.com/package/@botiverse/oar) - The library: sessions, events, control, host tools and subagents across every runtime.
 - [`@botiverse/oar-cli`](https://www.npmjs.com/package/@botiverse/oar-cli) - The `oar` CLI to install, sign in, check usage and models, and run turns against any runtime.
@@ -22,11 +22,11 @@ Not to be confused with other projects named OAR, such as Open Agent Relay (`@oa
 ## Apps and workspaces
 
 - [raft-source](https://github.com/botiverse/raft-source) ⭐ 789 - Source of [Raft](https://raft.build), the workspace for humans and agents, whose daemon runs agent runtimes through OAR.
-- [eta](https://github.com/0xfe-project/eta) ⭐ 257 - Open-source workbench for always-on agents on your own machines, with external runtimes through OAR.
-- [ducter](https://github.com/wey-gu/ducter) ⭐ 40 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
-- [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 5 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
+- [eta](https://github.com/0xfe-project/eta) ⭐ 276 - Open-source workbench for always-on agents on your own machines, with external runtimes through OAR.
+- [Kaze](https://github.com/jackwener/Kaze) ⭐ 239 - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
+- [ducter](https://github.com/wey-gu/ducter) ⭐ 41 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
+- [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 6 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
 - [rao](https://github.com/botiverse/rao) ⭐ 1 - Local desktop agent workspace that organizes work around projects, each with a long-running maintainer agent.
-- [Kaze](https://github.com/jackwener/Kaze) - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
 
 ## Agents and bridges
 
