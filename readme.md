@@ -2,8 +2,6 @@
 
 > A curated list of projects built on OAR (Open Agent Runtime) — one programming interface for all agent harnesses, to control and observe Claude Code, Codex, Pi, Gemini and more.
 
-Not to be confused with other projects named OAR, such as Open Agent Relay (`@oar-sh/oar`) or Open Action Record (`@openactionrecord/*`).
-
 ## Contents
 
 - [Official](#official)
