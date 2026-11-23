@@ -12,15 +12,15 @@
 
 ## Official
 
-- [oar](https://github.com/botiverse/oar) ⭐ 691 - Open Agent Runtime: one programming interface for all agent harnesses.
+- [oar](https://github.com/botiverse/oar) ⭐ 738 - Open Agent Runtime: one programming interface for all agent harnesses.
 - [`@botiverse/oar`](https://www.npmjs.com/package/@botiverse/oar) - The library: sessions, events, control, host tools and subagents across every runtime.
 - [`@botiverse/oar-cli`](https://www.npmjs.com/package/@botiverse/oar-cli) - The `oar` CLI to install, sign in, check usage and models, and run turns against any runtime.
 
 ## Apps and workspaces
 
-- [raft-source](https://github.com/botiverse/raft-source) ⭐ 789 - Source of [Raft](https://raft.build), the workspace for humans and agents, whose daemon runs agent runtimes through OAR.
-- [eta](https://github.com/0xfe-project/eta) ⭐ 276 - Open-source workbench for always-on agents on your own machines, with external runtimes through OAR.
-- [Kaze](https://github.com/jackwener/Kaze) ⭐ 239 - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
+- [raft-source](https://github.com/botiverse/raft-source) ⭐ 794 - Source of [Raft](https://raft.build), the workspace for humans and agents, whose daemon runs agent runtimes through OAR.
+- [eta](https://github.com/0xfe-project/eta) ⭐ 284 - Open-source workbench for always-on agents on your own machines, with external runtimes through OAR.
+- [Kaze](https://github.com/jackwener/Kaze) ⭐ 240 - Calm, quick browser for macOS and Windows with a built-in agent that works in tabs of its own, next to yours.
 - [ducter](https://github.com/wey-gu/ducter) ⭐ 41 - Personal AI that runs your coding agents on your own computers or servers, with one adapter for four agents through OAR.
 - [tmux-agent-deck](https://github.com/RayzPub/tmux-agent-deck) ⭐ 6 - Web terminal control deck for tmux sessions running Claude Code, Antigravity or Codex (Chinese).
 - [Kanso](https://kanso.botiverse.build/) - Disk usage analysis and cleanup for Mac, where fixed rules and a coding agent scan together and only what you confirm is deleted.
@@ -36,7 +36,7 @@
 
 ## Plugins and integrations
 
-- [dsh-agent-team](https://github.com/Contexera/dsh-agent-team) ⭐ 109 - Agent teams for DeepSeek Harness.
+- [dsh-agent-team](https://github.com/Contexera/dsh-agent-team) ⭐ 111 - Agent teams for DeepSeek Harness.
 - [DSH-Subagent-OAR-AGY](https://github.com/jiezhengj/DSH-Subagent-OAR-AGY) ⭐ 1 - Unofficial DeepSeek Harness plugin that delegates tasks to the local Antigravity CLI with the OAR tool shape.
 - [dsh-engine-switch](https://github.com/Goodfun-Studio/dsh-engine-switch) ⭐ 0 - DeepSeek Harness plugin that hands the main session to another agent runtime, such as Pi, through OAR (Chinese).
 - [dsh-orchestration](https://github.com/myth929/dsh-roles) ⭐ 0 - DeepSeek Harness plugin for role-layered subagents, with per-role model and OAR runtime routing.
