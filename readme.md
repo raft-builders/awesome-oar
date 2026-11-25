@@ -32,6 +32,7 @@
 - [call-cli](https://github.com/Loveacup/call-cli) ⭐ 0 - Delegate work from one coding CLI to others (OMP, Codex, Pi, AGY) locally or over SSH, with an experimental OAR backend.
 - [relaydeck](https://github.com/x6nux-oss/relaydeck) ⭐ 0 - Always-on super agent that takes requests from code hosts and chat tools and runs each in its own OAR session (Chinese).
 - [sandboxed-agent-builder](https://github.com/AkaraChen/sandboxed-agent-builder) ⭐ 0 - Service that builds Docker images of runnable agents driven by OAR, with build state, logs and retries (Chinese).
+- [loom](https://github.com/sun-rs/loom) - Resident daemon per project that organises local agent sessions, with headless ones started through OAR (Chinese).
 - [`@rien7/agent-center-host`](https://www.npmjs.com/package/@rien7/agent-center-host) - Agent host for Agent Center that claims queued turns and answers them through an OAR runtime.
 
 ## Plugins and integrations
