@@ -41,6 +41,7 @@
 - [dsh-orchestration](https://github.com/myth929/dsh-roles) ⭐ 4 - DeepSeek Harness plugin for role-layered subagents, with per-role model and OAR runtime routing.
 - [DSH-Subagent-OAR-AGY](https://github.com/jiezhengj/DSH-Subagent-OAR-AGY) ⭐ 1 - Unofficial DeepSeek Harness plugin that delegates tasks to the local Antigravity CLI with the OAR tool shape.
 - [dsh-engine-switch](https://github.com/Goodfun-Studio/dsh-engine-switch) ⭐ 0 - DeepSeek Harness plugin that hands the main session to another agent runtime, such as Pi, through OAR (Chinese).
+- [dudu](https://github.com/weiwenhao/dudu) - DeepSeek Harness plugin that runs Claude Code, Codex, Pi and more through OAR, managed with an issue board and phone apps (Chinese and English).
 - [deepseek-ai/deepseek-harness: subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/subagent-oar) - Experimental DeepSeek Harness provider that delegates one-shot tasks to Codex and Claude Code through OAR.
 - [deepseek-ai/deepseek-harness: tool-subagent-oar](https://github.com/deepseek-ai/deepseek-harness/tree/master/packages/experimental/tool-subagent-oar) - DeepSeek Harness `subagent_oar` tool that picks a configured OAR runtime for each task.
 
